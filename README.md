@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ace (he/him/his).
 
-I'm a junior at Stanford Online High School, graduating in 2022. I have experience working with Java, Javascript, C++ and Swift. Working on a top-secret app that interacts with you and your carbon footprint.
+I'm a junior at Stanford Online High School, graduating in 2022. I have experience working with Java, Javascript, C++ and Swift. Working on a top-secret Swift app that interacts with you and your carbon footprint.
 
 <!--
 **ace-beattie/ace-beattie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
